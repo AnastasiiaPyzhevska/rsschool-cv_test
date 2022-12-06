@@ -1,3 +1,6 @@
+![my Foto](myFoto.jpg)
+
+
 ## Pyzhevska Anastasiia
 
 #### Contacts:
@@ -14,9 +17,9 @@
 * Now I want to consolidate the knowledge I have received, looking for a new job
 
 #### Skills, Education
-GIT, HTML, CSS, JS, TS (I am still studying now, Epam course for swithers - stage2).
-Basic knowledge in BA ( Finished course  IAMPM: Business Analysis course http://courses.iampm.club/certificate/010602.png).
-SoloLearn online course - HTML, CSS, SQL
+* GIT, HTML, CSS, JS, TS (I am still studying now, Epam course for swithers - stage2).
+* Basic knowledge in BA ( Finished course  IAMPM: Business Analysis course http://courses.iampm.club/certificate/010602.png).
+* SoloLearn online course - HTML, CSS, SQL
 
 #### Experience
 *The Link to GitLab repository from the educational project:* https://gitlab.com/AnastasiiaPyzhevska/sw
